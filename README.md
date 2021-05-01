@@ -1,6 +1,6 @@
 # tugas_uts
 
-<p>Nama   :ERIK HERNAWAM </p>
+<p>Nama   :ERIK HERNAWAN </p>
 <p>Kelas  :TI.19.B1 </p>
 <p>Nim    :311910100 </p> 
 
